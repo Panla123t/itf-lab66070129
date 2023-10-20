@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@600;800&display=swap');
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+    padding: 0;
+    margin: 0;
+    background-image: url(https://ih1.redbubble.net/image.5189059747.7417/raf,750x1000,075,t,heather_grey.jpg);
+}
+
+.container {
+    width: 50vh;
+    border: 6px solid black;
+    border-radius: 7px;
+    justify-content: center;
+}
+
+.card {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+.card p{
+    font-size: 1vh;
+    padding: 20%;
+}
+.card img{
+    height: 20vh;
+    border-radius: 3px;
+}
+.contact a img{
+    height: 4vh;
+    padding: 1vh 1vh;
+}
